@@ -6,8 +6,11 @@ Pasos a seguir
 -	Dentro de la carpeta del proyecto Ikon_challenge_antonio se encuentra el archivo App.config en él se encuentran 4 valores con los siguientes identificadores
 
 ruta_in = Ruta de acceso al archivo challenge.in
+
 ruta_out = Ruta de acceso al archivo challenge.out
+
 nombre_in = Nombre del archivo de valores de entrada fijo callenge.in
+
 nombre_out = Nombre del archivo de valores de entrada fijo callenge.out
 
 Obligatorio: cambiar los valores de ruta_in y ruta_out con los destinos deseados.
