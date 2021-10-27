@@ -26,4 +26,5 @@ Notas:
 -	Si el archivo challenge.in se encuentra vacío se realiza una precarga con los valores del ejemplo en el archivo challenge.in
 -	Si existe algún problema de formato en el archivo challenge.in el sistema lo notificara.
 -	Al finalizar el proceso de configuración de dispositivos sin errores el sistema indicara esto al usuario.
+-	Los accesos a los archivos challenge.in/.out sera directo en la carpeta principal descargada por medio de rutas relativas.
 
