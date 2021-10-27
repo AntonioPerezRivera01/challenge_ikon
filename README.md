@@ -11,7 +11,7 @@ ruta_out = Ruta de acceso al archivo challenge.out
 
 nombre_in = Nombre del archivo de valores de entrada fijo callenge.in
 
-nombre_out = Nombre del archivo de valores de entrada fijo callenge.out
+nombre_out = Nombre del archivo de valores de salida fijo callenge.out
 
 Obligatorio: cambiar los valores de ruta_in y ruta_out con los destinos deseados.
 Opcional: Cambiar los valores de nombre_in y nombre_out
