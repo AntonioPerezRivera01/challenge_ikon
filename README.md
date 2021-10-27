@@ -21,8 +21,8 @@ Opcional: Cambiar los valores de nombre_in y nombre_out
 Obligatorio: Ejecutar la aplicación ikon_challenge_antonio.exe
 
 Notas:	
+-	Si los archivos no están creados el sistema creará estos documentos.  
+-	Si el archivo challenge.in se encuentra vacío el realiza una precarga con los valores del ejemplo en el archivo challenge.in
 -	Si existe algún problema de formato en el archivo challenge.in el sistema lo notificara.
 -	Al finalizar el proceso de configuración de dispositivos sin errores el sistema indicara esto al usuario.
--	Si los archivos no están creados el sistema creará estos documentos.  
--	Si el archivo challenge.in se encuentra vacío el realiza una precarga con los valores del 
 
