@@ -14,7 +14,7 @@ nombre_in = Nombre del archivo de valores de entrada fijo callenge.in
 
 nombre_out = Nombre del archivo de valores de salida fijo callenge.out
 
-Obligatorio: cambiar los valores de ruta_in y ruta_out con los destinos deseados.
+Opcional: cambiar los valores de ruta_in y ruta_out con los destinos deseados (Si se cambian los valores ruta_in ruta_out sera necesario compilar nuevamente el proyecto en release).
 Opcional: Cambiar los valores de nombre_in y nombre_out
 
 -	En la ruta ikon_challenge_antonio->bin->reléase->netcoreapp3.1, se encuentra el archivo ejecutable con nombre ikon_challenge_antonio.exe 
