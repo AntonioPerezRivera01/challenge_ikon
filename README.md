@@ -4,7 +4,7 @@ Reto de programación
 Pasos a seguir
 - Descargar archivo ikon_challenge_antonio.rar
 -	Descomprimir carpeta del proyecto ikon_challenge_antonio.rar
--	Dentro de la carpeta del proyecto Ikon_challenge_antonio se encuentra el archivo App.config en él se encuentran 4 valores con los siguientes identificadores
+-	Dentro de la carpeta del proyecto Ikon_challenge_antonio se encuentra el archivo App.config sección appSettings en él se encuentran 4 valores con los siguientes identificadores
 
 ruta_in = Ruta de acceso al archivo challenge.in
 
