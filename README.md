@@ -27,4 +27,4 @@ Notas:
 -	Si existe algún problema de formato en el archivo challenge.in el sistema lo notificara.
 -	Al finalizar el proceso de configuración de dispositivos sin errores el sistema indicara esto al usuario.
 -	Los accesos a los archivos challenge.in/.out sera directo en la carpeta principal descargada por medio de rutas relativas.
-
+- Pudira ser necesario instalar .netcore 3.1 desktop runtime v3.1.20 para la arquitectura de su OS de no tenrlo.
